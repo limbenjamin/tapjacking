@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">TapJacking Demo</string>
+	<string name="backgroundInstaller">start</string>
+	<string name="appDescription">Click on the picture to win</string>
+</resources>
